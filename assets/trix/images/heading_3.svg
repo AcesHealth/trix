@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16.667px;
+        fill: #6cb9b5;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <image width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQAAAADIDABVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfhCxwPGjd/H6NYAAAAD0lEQVQI12P4//8/Aw0xAHOjR7lE0Z7dAAAAAElFTkSuQmCC"/>
+  <text id="pT" class="cls-1" x="2.117" y="19.395">pT</text>
+</svg>

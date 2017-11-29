@@ -20,6 +20,11 @@ Trix.config.blockAttributes = attributes =
     terminal: true
     breakOnReturn: true
     group: false
+  heading4:
+    tagName: "h4"
+    terminal: true
+    breakOnReturn: true
+    group: false
   code:
     tagName: "pre"
     terminal: true

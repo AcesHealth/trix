@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
-  <path d="M11.516,9 L11.516,12 L8.516,12 L8.516,18.984 L5.516,18.984 L5.516,12 L2.516,12 L2.516,9 L11.516,9 L11.516,9 Z M8.484,3.984 L21.515,3.984 L21.515,6.984 L16.499,6.984 L16.499,18.984 L13.499,18.984 L13.499,6.984 L8.483,6.984 L8.483,3.984 L8.484,3.984 Z" id="Shape" fill="#000000"></path>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20.833px;
+        fill: #fff;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <image width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQAAAADIDABVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfhCxwPGRDxOEXwAAAAD0lEQVQI12P4//8/Aw0xAHOjR7lE0Z7dAAAAAElFTkSuQmCC"/>
+  <image id="Layer_0" data-name="Layer 0" width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQMAAADaua+7AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEVUkJEAAADmglL/AAAAAWJLR0QB/wIt3gAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+ELHA8ZEPE4RfAAAAAMSURBVAjXY2CgLQAAAGAAATeQF3gAAAAASUVORK5CYII="/>
+  <text id="H" class="cls-1" x="5.117" y="19.395">H</text>
 </svg>

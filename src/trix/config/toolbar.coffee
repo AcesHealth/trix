@@ -3,6 +3,12 @@
 Trix.config.toolbar =
   getDefaultHTML: -> """
     <div class="trix-button-row">
+      <span class="trix-button-group trix-button-group--heading-tools" data-trix-button-group="heading-tools">
+        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-1" data-trix-attribute="heading1" title="#{lang.heading1}" tabindex="-1">#{lang.heading1}</button>
+        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-2" data-trix-attribute="heading2" title="#{lang.heading2}" tabindex="-1">#{lang.heading2}</button>
+        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-3" data-trix-attribute="heading3" title="#{lang.heading3}" tabindex="-1">#{lang.heading3}</button>
+        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-4" data-trix-attribute="heading4" title="#{lang.heading4}" tabindex="-1">#{lang.heading4}</button>
+      </span>
       <span class="trix-button-group trix-button-group--text-tools" data-trix-button-group="text-tools">
         <button type="button" class="trix-button trix-button--icon trix-button--icon-bold" data-trix-attribute="bold" data-trix-key="b" title="#{lang.bold}" tabindex="-1">#{lang.bold}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-italic" data-trix-attribute="italic" data-trix-key="i" title="#{lang.italic}" tabindex="-1">#{lang.italic}</button>
@@ -11,9 +17,6 @@ Trix.config.toolbar =
       </span>
 
       <span class="trix-button-group trix-button-group--block-tools" data-trix-button-group="block-tools">
-        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-1" data-trix-attribute="heading1" title="#{lang.heading1}" tabindex="-1">#{lang.heading1}</button>
-        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-2" data-trix-attribute="heading2" title="#{lang.heading2}" tabindex="-1">#{lang.heading2}</button>
-        <button type="button" class="trix-button trix-button--icon trix-button--icon-heading-3" data-trix-attribute="heading3" title="#{lang.heading3}" tabindex="-1">#{lang.heading3}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-quote" data-trix-attribute="quote" title="#{lang.quote}" tabindex="-1">#{lang.quote}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-code" data-trix-attribute="code" title="#{lang.code}" tabindex="-1">#{lang.code}</button>
         <button type="button" class="trix-button trix-button--icon trix-button--icon-bullet-list" data-trix-attribute="bullet" title="#{lang.bullets}" tabindex="-1">#{lang.bullets}</button>
