@@ -1,15 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <defs>
     <style>
       .cls-1 {
-        font-size: 20.833px;
+        font-size: 16.667px;
         fill: #fff;
         font-family: Roboto;
-        font-weight: 500;
+        font-weight: 700;
       }
     </style>
   </defs>
-  <image width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQAAAADIDABVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfhCxwPGRDxOEXwAAAAD0lEQVQI12P4//8/Aw0xAHOjR7lE0Z7dAAAAAElFTkSuQmCC"/>
-  <image id="Layer_0" data-name="Layer 0" width="24" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAQMAAADaua+7AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEVUkJEAAADmglL/AAAAAWJLR0QB/wIt3gAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+ELHA8ZEPE4RfAAAAAMSURBVAjXY2CgLQAAAGAAATeQF3gAAAAASUVORK5CYII="/>
-  <text id="H" class="cls-1" x="5.117" y="19.395">H</text>
+  <text id="H1" class="cls-1" x="2.117" y="18.395">H1</text>
 </svg>
